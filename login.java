@@ -31,6 +31,7 @@ public class login {
             System.out.println("=======================================================");
             System.out.println("Login Failed");
             System.out.println("Invalid username or password. Please try again.");
+            System.out.println("=======================================================");
         }
 
         o.close();
